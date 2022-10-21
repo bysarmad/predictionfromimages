@@ -17,10 +17,6 @@ This project is the second part of a series of projects that walk through workin
 * Scale training and test features
 * Perform PCA
 * Train and score our model
-<<<<<<< HEAD
-* ROC curve + AUC
-=======
 * ROC curve + AUC
 
 ![Figure_1](https://user-images.githubusercontent.com/63611492/197305793-dc73940e-230b-419b-9f34-52d9ba8e6ee0.png)
->>>>>>> bbf00df97e92129bd69d5d4562dbd926af1b1e42
